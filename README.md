@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [한국어](./README.ko.md) | [Hindi](./README.hi.md) | [Arabic](./README.ar.md) | [Français](./README.fr.md) | [Русский](./README.ru.md) | [Latin](./README.la.md) | [日本語](./README.ja.md)| [Italian](./README.it.md) | [Deutsch](./README.de.md) | [Portuguese Br](./README.pt-BR.md) | [Español](./README.es.md) | [svenska](./README.sv.md) | [فارسی](./README.fa.md) | [Türkçe](./README.tr-TR.md)
+
 ![image](https://user-images.githubusercontent.com/100348948/165334090-0b1a6f28-554e-484b-9946-1ffef010fa78.png)
 #
 
@@ -116,6 +118,37 @@ Browser extension screenshots
 
 ![Audios panel](images/extension_audios.png)
 
+#### Custom files panel
+
+![Custom files panel](images/extension_popup_custom.png)
+
+#### Resource explorer - images
+
+![Resource explorer - images](images/extension_res_explorer_images.png)
+
+
+#### Resource explorer - scripts
+
+![Resource explorer - scripts](images/extension_res_explorer_scripts.png)
+
+#### Videos preview
+
+![Videos preview](images/extension_preview.png)
+
+
+#### Videos collector
+
+![Videos collector](images/extension_collector_videos.png)
+
+
+#### Audios collector
+
+![Audios collector](images/extension_collector_audios.png)
+
+#### Settings
+
+![Settings](images/extension_settings.png)
+
 
 ## features
 * HTTP,HTTPS protocol (basic features like gzip, resumable, multi-connections will not be listed.)	1.0
@@ -204,8 +237,11 @@ This will make the software more accessible to people who speak languages other 
 | Nederlands         | [@XIAA25](https://github.com/XIAA25)
 | 한국어         | [@VenusGirl](https://github.com/VenusGirl)
 | Tiếng Việt | [@vuongtuha](https://github.com/vuongtuha)
-| Türkçe     | [@geeede](https://github.com/geeede)
-| Indonesian     | [@gigglylo](https://github.com/gigglylo)
+| Türkçe     | [@geeede](https://github.com/geeede) [@saurane](https://github.com/saurane)
+| Indonesian     | [@gigglylo](https://github.com/gigglylo) Rangga S. Nugraha
+| Deutsch     | [@Vulcanraven91](https://github.com/Vulcanraven91)
+| 日本語     | [@wany-oh](https://github.com/wany-oh)
+| polski     | [@RunoHawk](https://github.com/RunoHawk)
 
 
 ## Opensource libraries
